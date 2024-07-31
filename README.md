@@ -1,6 +1,6 @@
-# オシャレ雑貨 ECサイト
+# Vue.js ECサイト
 
-このプロジェクトは、Vue.js、TypeScript、TailwindCSSを使用して作成されたオシャレな雑貨を扱うECサイトです。
+このプロジェクトは、Vue.js、TypeScript、TailwindCSSを使用して作成されたECサイトです。
 
 ## 環境構築
 
